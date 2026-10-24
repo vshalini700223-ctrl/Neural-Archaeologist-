@@ -1,0 +1,34 @@
+// Optimized proxy for lucide-react icons used in Neural Archaeologist AI
+// Prevents Vite/Rollup from parsing and transforming all 1,489 icon files during build
+export { default as Activity } from 'lucide-react/dist/esm/icons/activity.js';
+export { default as AlertCircle } from 'lucide-react/dist/esm/icons/alert-circle.js';
+export { default as AlertTriangle } from 'lucide-react/dist/esm/icons/alert-triangle.js';
+export { default as BookOpen } from 'lucide-react/dist/esm/icons/book-open.js';
+export { default as Check } from 'lucide-react/dist/esm/icons/check.js';
+export { default as CheckCircle } from 'lucide-react/dist/esm/icons/check-circle.js';
+export { default as CheckCircle2 } from 'lucide-react/dist/esm/icons/check-circle-2.js';
+export { default as ChevronDown } from 'lucide-react/dist/esm/icons/chevron-down.js';
+export { default as ChevronUp } from 'lucide-react/dist/esm/icons/chevron-up.js';
+export { default as Columns } from 'lucide-react/dist/esm/icons/columns.js';
+export { default as Download } from 'lucide-react/dist/esm/icons/download.js';
+export { default as Edit3 } from 'lucide-react/dist/esm/icons/edit-3.js';
+export { default as ExternalLink } from 'lucide-react/dist/esm/icons/external-link.js';
+export { default as Eye } from 'lucide-react/dist/esm/icons/eye.js';
+export { default as FileDown } from 'lucide-react/dist/esm/icons/file-down.js';
+export { default as FileText } from 'lucide-react/dist/esm/icons/file-text.js';
+export { default as FileUp } from 'lucide-react/dist/esm/icons/file-up.js';
+export { default as HelpCircle } from 'lucide-react/dist/esm/icons/help-circle.js';
+export { default as Info } from 'lucide-react/dist/esm/icons/info.js';
+export { default as Landmark } from 'lucide-react/dist/esm/icons/landmark.js';
+export { default as Layers } from 'lucide-react/dist/esm/icons/layers.js';
+export { default as Maximize2 } from 'lucide-react/dist/esm/icons/maximize-2.js';
+export { default as RefreshCw } from 'lucide-react/dist/esm/icons/refresh-cw.js';
+export { default as RotateCcw } from 'lucide-react/dist/esm/icons/rotate-ccw.js';
+export { default as ShieldCheck } from 'lucide-react/dist/esm/icons/shield-check.js';
+export { default as Sliders } from 'lucide-react/dist/esm/icons/sliders.js';
+export { default as Sparkles } from 'lucide-react/dist/esm/icons/sparkles.js';
+export { default as SplitSquareVertical } from 'lucide-react/dist/esm/icons/split-square-vertical.js';
+export { default as Upload } from 'lucide-react/dist/esm/icons/upload.js';
+export { default as Wand2 } from 'lucide-react/dist/esm/icons/wand-2.js';
+export { default as ZoomIn } from 'lucide-react/dist/esm/icons/zoom-in.js';
+export { default as ZoomOut } from 'lucide-react/dist/esm/icons/zoom-out.js';
